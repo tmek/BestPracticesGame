@@ -29,7 +29,4 @@ Public game development notes from veteran industry developers working with Unre
 
 ## Resources and Tools
 
--   [Natvis in UnrealEngine](https://baemincheon.github.io/2021/03/01/unreal-engine-natvis/)
-
-
-
+- [Natvis in UnrealEngine](https://baemincheon.github.io/2021/03/01/unreal-engine-natvis/)
