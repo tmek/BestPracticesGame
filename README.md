@@ -1,7 +1,5 @@
 # Best Practices Game
 
-![Unreal Engine 5 Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Unreal_Engine_5_Logo.svg/1024px-Unreal_Engine_5_Logo.svg.png)
-
 This repository contains an exploratory Unreal Engine 5 (UE5) project that is built from scratch, focusing on implementing best practices for optimized performance and efficient coding. The primary objective is to create a solid foundation for future UE5 projects, ensuring smooth performance and clean code organization.
 
 ## Table of Contents
@@ -28,9 +26,9 @@ Ensure that you have the following software installed on your computer:
 ### Installation
 
 1. Clone the repository:
-```
-git clone https://github.com/tmek/BestPracticesGame.git
-```
+	```
+	git clone https://github.com/tmek/BestPracticesGame.git
+	```
 2. Open the project in Unreal Engine 5.
 3. After the project has been successfully opened, compile and run the project to ensure everything is set up correctly.    
 
@@ -39,6 +37,8 @@ git clone https://github.com/tmek/BestPracticesGame.git
 This project aims to implement various best practices to optimize performance and maintain efficient coding standards. As we explore and develop the project further, we will continuously identify, discuss, and integrate these best practices into our workflow. By doing so, we aim to create a strong foundation for future Unreal Engine 5 projects.
 
 During the course of the project, we will be updating this section with the best practices we discover and implement. Stay tuned for updates on our progress and learnings. Feel free to contribute your insights and suggestions through pull requests or by opening an issue. Your input will be invaluable in shaping the direction and success of this project.
+
+See [Gathering "Best Practices"](Documentation/Index.md) for more information.
 
 ## Contributing
 
@@ -52,7 +52,7 @@ Contributions are welcome! To contribute to this project, please follow these st
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](license) file for more information.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ## Acknowledgements
 
