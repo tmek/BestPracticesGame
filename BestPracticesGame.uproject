@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.2",
+	"Category": "Experimental",
+	"Description": "An exploratory Unreal Engine 5 project starting from scratch and focused on implementing best practices for optimized performance and efficient coding.",
+	"ProjectDescriptorDocumentation": "https://docs.unrealengine.com/en-US/API/Runtime/Projects/FProjectDescriptor/",
+	"Modules": [
+		{
+			"Name": "BestPracticesGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"DeveloperSettings",
+				"Engine"
+			]
+		},
+		{
+			"Name": "BestPracticesEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
